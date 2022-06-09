@@ -7,7 +7,7 @@
 }
 
 .ui-menu-color-info {
-    background-color: #69d6ee;
+    background-color: #43ada5;
 }
 
 .ui-menu-color-tickets {
@@ -43,7 +43,7 @@ header {
 
 #nav li {
     font-size: 25px;
-    padding: 0;
+    padding: 0 0 0 125px;
     margin-top: 100px;
     color: white;
 }
@@ -58,3 +58,5 @@ a:hover {
     color: #222221;
     text-decoration: underline;
 }
+
+/* main homepage body */
