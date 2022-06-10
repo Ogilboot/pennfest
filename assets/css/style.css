@@ -83,5 +83,12 @@ header {
 
 /* ---------------------------------------------------------- footer */
 
+footer {
+    margin: 0;
+    height: 75px;
+    background-color: white;
+}
 
-
+#socials-heading {
+    text-align: center;
+}
