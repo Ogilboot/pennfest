@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
-/* colors */
+/* ----------------------------------------------------------------------- colors */
 
 .ui-menu-color-home {
     background-color: #ffdb58;
@@ -18,7 +18,34 @@
     background-color: #f0e68c;
 }
 
-/* Heading */
+/* ------------------------------------------------------------- Special Padding / Margins / Text */
+
+h1,h2,h3,h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color:#222221;
+}
+
+/* ---------------------------------------------------- link general styling */
+
+a {
+    color: #222221;
+}
+
+a:hover {
+    color: #222221;
+    text-decoration: underline;
+}
+
+/* --------------------------------------------------------- Header */
 
 header {
     margin: 0;
@@ -46,17 +73,15 @@ header {
     padding: 0 0 0 125px;
     margin-top: 100px;
     color: white;
+    border:#222221;
+    border-style: solid;
 }
 
-/* link general styling */
-
-a {
-    color: #222221;
+#icon {
+    padding: 0 0 0 10px;
 }
 
-a:hover {
-    color: #222221;
-    text-decoration: underline;
-}
+/* ---------------------------------------------------------- footer */
 
-/* main homepage body */
+
+
