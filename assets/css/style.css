@@ -18,6 +18,10 @@
     background-color: #f0e68c;
 }
 
+.bg-color-contact {
+    background-color: white;
+}
+
 /* ------------------------------------------------------------- Special Padding / Margins / Text */
 
 h1,h2,h3,h4 {
@@ -112,3 +116,15 @@ footer {
 
 /* contact ----------------------------------------- */
 
+.contact-heading {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
+.center-form {
+    padding-top: 10px;
+    margin: 0 auto;
+    max-width: 70%;
+}
