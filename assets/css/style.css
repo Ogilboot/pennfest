@@ -2,21 +2,6 @@
 
 /* ----------------------------------------------------------------------- colors */
 
-.ui-menu-color-home {
-    background-color: #ffdb58;
-}
-
-.ui-menu-color-info {
-    background-color: #43ada5;
-}
-
-.ui-menu-color-tickets {
-    background-color: #ff7c58;
-}
-
-.ui-menu-color-contact {
-    background-color: #f0e68c;
-}
 
 .bg-color-contact {
     background-color: white;
@@ -53,32 +38,7 @@ a:hover {
 
 header {
     margin: 0;
-    height: 160px;
     background-color: white;
-}
-
-#logo {
-    background: url("../images/pennfest.png") no-repeat;
-    min-height: 150px;
-    background-position: center;
-    margin-top: 10px;
-}
-
-.list-inline-item:not(:last-child) {
-    margin: 0;
-}
-
-.menucontainer {
-    font-size: 0;
-}
-
-#nav li {
-    font-size: 25px;
-    padding: 0 0 0 125px;
-    margin-top: 100px;
-    color: white;
-    border:#222221;
-    border-style: solid;
 }
 
 #icon {
