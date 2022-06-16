@@ -45,7 +45,31 @@ header {
     padding: 0 0 0 10px;
 }
 
-/* ---------------------------------------------------------- homepage body */
+/* ---------------------------------------------------------- main body & lists */
+
+.list-center {
+    margin: auto;
+    width: 60%;
+    border: 3px solid black;
+    padding: 10px;
+}
+
+.list-subheadings-center {
+    text-align: center;
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+.list-subheadings-left {
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+i {
+    padding-left: 10px;
+}
+
+
 
 /* ---------------------------------------------------------- footer */
 
