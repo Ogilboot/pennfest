@@ -28,6 +28,10 @@ h1,h2,h3,h4 {
     padding-bottom: 25px;
 }
 
+.button-margin {
+    margin: 20px 0 20px 40px;
+}
+
 /* ---------------------------------------------------- link general styling */
 
 a {
@@ -124,6 +128,7 @@ i {
 
     position: absolute;
 }
+
 
 
 /* ---------------------------------------------------------- image-slider */
