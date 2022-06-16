@@ -74,6 +74,7 @@ i {
     padding-bottom: 25px;
 }
 
+
 /* ---------------------------------------------------------- image-slider */
 
 .image-carousel {
@@ -113,6 +114,10 @@ footer {
 
 #socials-heading {
     text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 20px;
 }
 
 #social-icons {
@@ -135,7 +140,7 @@ footer {
 /* contact ----------------------------------------- */
 
 .contact-heading {
-    font-family: "Exo", sans-serif;
+    font-family: "Montserrat", sans-serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
