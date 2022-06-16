@@ -69,7 +69,34 @@ i {
     padding-left: 10px;
 }
 
+/* ---------------------------------------------------------- image-slider */
 
+.image-carousel {
+    display: flex;
+    overflow-y: scroll;
+  }
+  
+  .image-carousel div {
+    flex: 1;
+    margin: 5px
+  }
+  
+  .image-carousel div img {
+    width: 100%;
+    height: auto;
+    min-width: 125px;
+  }
+  
+  .image-carousel  .wide-only {
+    display: none;
+  }
+  
+  @media(min-width:880px) {
+    .image-carousel .wide-only {
+      display: block;
+      flex: 1
+    }
+  }
 
 /* ---------------------------------------------------------- footer */
 
