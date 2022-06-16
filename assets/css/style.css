@@ -209,6 +209,10 @@ footer {
     max-width: 70%;
 }
 
+.contact-form {
+    padding-bottom: 75px;
+}
+
 /* media queries ----------------------------------------- */
 
 @media(min-width: 992px) {
