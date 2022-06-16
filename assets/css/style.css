@@ -90,6 +90,7 @@ i {
     height: 600px;
     width: 100%;
     overflow: hidden;
+    position: relative;
 }
 
 @keyframes hero-zoom {
@@ -100,6 +101,30 @@ i {
         transform: scale(1.1)
     }
 }
+
+#cover-text, #cover-text h2 {
+    color: #ffffff
+}
+
+#cover-text {
+    font-size: 150%;
+    font-family: "Exo";
+    text-transform: uppercase;
+
+    width: 500px;
+    height: 200px;
+
+    padding-top: 55px;
+    padding-left: 50px;
+
+    background-color: rgba(241, 109, 107, .7);
+
+    bottom: 200px;
+    right: 750px;
+
+    position: absolute;
+}
+
 
 /* ---------------------------------------------------------- image-slider */
 
