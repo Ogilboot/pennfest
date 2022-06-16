@@ -23,6 +23,11 @@ h1,h2,h3,h4 {
     color:#222221;
 }
 
+#poster {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
 /* ---------------------------------------------------- link general styling */
 
 a {
@@ -45,7 +50,7 @@ header {
     padding: 0 0 0 10px;
 }
 
-/* ---------------------------------------------------------- main body & lists */
+/* ---------------------------------------------------------- lists */
 
 .list-center {
     margin: auto;
@@ -69,11 +74,32 @@ i {
     padding-left: 10px;
 }
 
-#poster {
-    padding-top: 25px;
-    padding-bottom: 25px;
+/* ---------------------------------------------------------- hero-image */
+
+#hero-image {
+    height: 600px;
+    width: 100%;
+    background-image: url("https://i.ibb.co/b7s8SDH/concert-g2a6ee954c-1920.jpg");
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+}
+
+@keyframes hero-zoom {
+    from {
+        transform: scale(1)
+    }
+    to {
+        transform: scale(1.1)
+    }
+}
 
 /* ---------------------------------------------------------- image-slider */
 
