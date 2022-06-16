@@ -115,16 +115,16 @@ i {
     font-family: "Exo";
     text-transform: uppercase;
 
-    width: 500px;
-    height: 200px;
+    width: 300px;
+    height: 250px;
 
-    padding-top: 55px;
+    padding-top: 50px;
     padding-left: 50px;
 
     background-color: rgba(241, 109, 107, .7);
 
     bottom: 200px;
-    right: 750px;
+    right: 800px;
 
     position: absolute;
 }
@@ -218,4 +218,14 @@ footer {
         margin: 0 auto;
         max-width: 50%;
     }
+}
+
+@media screen and (max-width:943px){
+
+    #cover-text {
+        left:0px;
+    }
+
+
+
 }
