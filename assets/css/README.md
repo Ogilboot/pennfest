@@ -149,6 +149,38 @@ Our site was tested across the following browsers, with no issues found. All ele
 
 ## User Stories: 
 
+> As a user I want to be excited upon first seeing the site.
+- The large hero-image and three smaller images displayed immediately below present a sense of excitement, linking the user in a small way to the real festival experience. The Homepage is intentionally designed to be uncluttered and bold in stlye, in order to bring this imagery to the forefront, with easily navigable buttons and navigation menus in sight ready for the user to take the next step.
+> As a user I want the site to be easily navigable. 
+- Our Nav menu remains clearly visible at all device sizes, remaining in the Header of the site should our users need to quickly navigate the site. We also have navigation buttons attached to the three smaller images at the bottom of each pages body section, allowing for a secondary means of navigation to the most popular sections of our site.
+> As a user I want to be able to access key information easily. 
+- Our 'Info' page presents a range of key information accessible with a single click on the Navigation menu. We also have a seperate page for our 'Lineup' information, should visitors want to find out which bands are playing at the festival, again accessible from any point with a single click. Finally, our 'Contact' page allows for users to get in touch with anything not addressed on the site itself. 
+> As a user I want to be able to contact the festival if needed.
+- As mentioned above, our 'Contact' page includes a fully responsive and interative contact form, through which our users can connect with us directly should they need to. 
+> As a user I want to find the lineup easly and want it to be presented in a pleasing format.
+- We have dedicated a page of its own to our 'Lineup' poster, which is fully responsive and presented in a visually pleasing manner. The colours used on the poster itself are in line with those mirrored across the site in order to maintain design integrity, and impart a fun, relaxed feel to the user. 
+> As a user I want to be able to find the Festivals social media links easily. 
+- Our social media links are clearly displayed in the 'Footer' section of each page, accessible with a single click. We left this footer section blank other than the Social Media links in order to draw clear attention to these.
+> As a user I want to see images of the festival in full swing. 
+- Images of the festival in process are displayed throughout the website, both on the Homepage and in the three smaller images consistent along the bottom of each individual page. We would like to add a 'Gallery' page to future iterations of the site. 
+
+## Bugs:
+
+### Solved Bugs:
+
+> Accessibility issues were identified through our use of a [webDev-Measure-Tool](https://web.dev/measure/), in that we did not have 'discernible names' attached to our social media links and navigation buttons. 
+- We remedied this by adding discernible names to our social media buttons (e.g: Facebook) and applying a 'color: transparent' rule within our CSS in order to preserve our desired, minimal design. Aria-labels were then added to our navigation buttons in order to remedy this portion of the accessibility issues.
+
+> We had initial issues with our Navigation-bar, having styled this with CSS incompatible with our desired responsiveness. The Menu itself clipped down the page, interfering with content further down our webpage.
+- We rectified this by replacing our old Navigation-bar design with a responsive, Bootstrap version. We then iterated upon this further by reducing the menu-size down to a 'Burger' display, dropdown menu upon resizing. This improved the overall professional look of our site markedly. 
+
+> Our 'Tickets' page originally had strange dots appearing within the list section, at angles from our intended 'li' element.
+- This turned out to be an unnecessary 'Div' element causing this, the removal of which achieved the design image we had originally had for the page.
+
+### Known Bugs:
+
+> [webDev-Measure-Tool](https://web.dev/measure/) still shows various small issues interfering with our site's performance primarily. These include images which are slow to load.
+- Although we have no had the time to address these issues as of writing this README, we will be addressing these issues in order to improve the overall performance and quality of the site as soon as we are able. 
 
 ## PageSpeed Insights:
 
