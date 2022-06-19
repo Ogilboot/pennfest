@@ -61,7 +61,7 @@ header {
     width: 75%;
     border: 3px solid black;
     padding: 10px;
-    
+    margin-bottom: 25px;
 }
 
 .list-subheadings-center {
@@ -153,14 +153,17 @@ footer {
 
 #facebook {
     padding: 25px;
+    color: transparent;
 }
 
 #twitter {
     padding: 25px;
+    color: transparent;
 }
 
 #instagram {
     padding: 25px;
+    color: transparent;
 }
 
 

@@ -111,6 +111,48 @@ We chose an eclectic mixture of colours, which nontheless gave the site a vibran
 # Testing
 ---
 
+## Validators:
+
+- Firstly, we ran our code through two validators, testing both HTML & CSS. 
+- All of our HTML pages returned no errors when run through the [W3C-HTML-Validator](https://validator.w3.org/). A partial screenshot of the output is provided below. 
+
+(ADD SCREENSHOT OF HTML PASS HERE)
+
+- Our CSS page also returned no errors, when run through the [W3C-CSS-Validator](https://jigsaw.w3.org/css-validator/validator).A partial screenshot of the output is provided below. 
+
+(ADD SCREENSHOT OF CSS PASS HERE)
+
+## Responsiveness:
+
+- To test this used both [Chrome-Developer-Tools](https://developer.chrome.com/docs/devtools/) and [Responsive-Design-Checker](https://responsivedesignchecker.com/), testing a range of devices which represented the full spectrum of screen-sizes currently on the market. Our site achieved a good result on all devices tested. Some of the devices used to test this include: 
+
+- iPhone SE
+- Pixel 5
+- Samsung Galaxy s8+
+- iPad Air 
+- Surface Duo
+- Samsung Galaxy A51
+- Nest Hub 
+- Nest Hub Max 
+
+Among others. 
+
+## Browser Compatibility:
+
+Our site was tested across the following browsers, with no issues found. All elements remained consistent across each, according to our testing.
+
+- Gogle Chrome
+- Mozilla Firefox
+- Safari
+- Microsoft Edge 
+- Brave 
+
+## User Stories: 
+
+
+## PageSpeed Insights:
+
+We used [webDev-Measure-Tool](https://web.dev/measure/) to analyse
 
 
 # Deployment
