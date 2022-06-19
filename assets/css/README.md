@@ -95,20 +95,64 @@ We chose an eclectic mixture of colours, which nontheless gave the site a vibran
 # Technologies Used
 ---
 
-3. Technologies Used
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/CSS)
+- [Balsamiq](https://balsamiq.com/)
+- [Canva](https://www.canva.com/)
+- [Pixabay](https://pixabay.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Google-Fonts](https://fonts.google.com/)
+- [Font-Awesome](https://fontawesome.com/)
+- [Github](https://github.com/)
+- [Gitpod](https://www.gitpod.io/docs/languages/html)
+- [W3C-CSS-Validator](https://jigsaw.w3.org/css-validator/)
+- [W3C-HTML-Validator](https://validator.w3.org/)
+
+# Testing
+---
 
 
 
-4. Testing
+# Deployment
+---
+
+## Deployment Instructions:
+
+We used 'Github Pages' to host our site.
+
+1. Navigate to the top menu of the project's [Repository](https://github.com/Ogilboot/pennfest) and click on 'Settings'.
+2. Navigate to the 'Pages' sub-section, using the menu on the left of the page.
+3. Find the dropdown menu underneath the 'Source' subheading and choose the 'Main' branch. 
+4. Click 'Save' to deploy the website.  
+
+## Fork Instructions:
+
+1. Navigate to the top-right menu of the project's [Repository](https://github.com/Ogilboot/pennfest) and click on 'Fork'.
+2. This will create an exact copy of the current repository in your Github account.
+
+## Clone Instructions: 
+
+1. Navigate to the top menu of the project's [Repository](https://github.com/Ogilboot/pennfest) and click on 'Code'.
+2. Copy the URL found in the 'HTTPS' section.
+3. Open Git Bash in your chosen development environment. 
+4. Edit the working directory to the location where you would like your newly cloned directory to be stored.
+5. Type 'git clone', paste in the URL copied from the HTTPS section and your clone will be initialised.  
 
 
+# Credits
+---
 
-5. Deployment
+- All images were downloaded from [Pixabay](https://pixabay.com/).
+- All Wireframes were created using [Balsamiq](https://balsamiq.com/).
+- The 'Lineup' graphic and 'Logo' were created using [Canva](https://www.canva.com/).
+- [Bootstrap](https://getbootstrap.com/) Was used extensively throughout the site, both for basic site structure aswell as more involved elements such as our 'Tickets' page and 'Nav Bar'.
+- All fonts were found on [Google-Fonts](https://fonts.google.com/).
+- All Icons were found on [Font-Awesome](https://fontawesome.com/).
+- All text was written by myself.
+- [W3Schools](https://www.w3schools.com/) & the [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/) were both used extensively as reference sources throughout the making of our site. 
 
 
+# Acknowledgements
+---
 
-6. Credits
-
-
-
-7. Acknowledgements
+My mentor [Precious Ljege](https://www.linkedin.com/in/precious-ijege-908a00168/) and the [Code Institute Team](https://codeinstitute.net/) for preparing me for this project, and helping with any issues throughout.
