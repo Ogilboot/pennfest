@@ -152,7 +152,11 @@ Our site was tested across the following browsers, with no issues found. All ele
 
 ## PageSpeed Insights:
 
-We used [webDev-Measure-Tool](https://web.dev/measure/) to analyse
+We used [webDev-Measure-Tool](https://web.dev/measure/) to analyse the: Performance, Accessibility, Best Practices & SEO ratings of our site. This illustrated some accessibility issues which we then corrected (as shown in the 'Bugs' section of this README). This improved our scores, however there are still performance issues we are planning to iron out, which we have touched upon in the 'Bugs' section of this README.
+
+## Peer Review:
+
+In addition to the testing listen thus far, we have handed the website to four individuals of varying degrees of experience with the internet. Their continual feedback has been useful in iterating our site to its current state of polish.
 
 
 # Deployment
