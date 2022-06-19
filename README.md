@@ -1,9 +1,9 @@
+![Site Structure Diagram](/assets/images/pennfest-responsive.png?raw=true "Pennfest Responsive")
+
 PennFest is a fictional music festival which takes place amongst the valleys of South Wales. It focuses on introducing promising, underground acts from alternative music genres
 within a safe, green space for the visiting public. The site aims to provide a 'hub' for potential festival go-ers, through which they can primarily: Book tickets, Find out travel information, Check our line-up & Contact us if needed.
 
 Please feel free to view the deployed website [here](https://ogilboot.github.io/pennfest/index.html)
-
-ADD PHOTOGRAPH OF MOCKUP WEBSITE HERE.
 
 --- 
 
