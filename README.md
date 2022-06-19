@@ -23,13 +23,27 @@ ADD PHOTOGRAPH OF MOCKUP WEBSITE HERE.
 ---
 Our Wireframes were created using a [Balsamiq](https://balsamiq.com/). We created representations of various screen sizes in order to map out our responsive design. The design of the final site however changed quite significantly throughout the design process. These changes I feel have elevated the final product above what was initially planned in at the Wireframe stage.
 
-(SCREENSHOTS OF WIREFRAMES HERE)
+Desktop Wireframes:
+
+- [Home](/assets/images/homepage%20desktop.png)
+- [Info](/assets/images/info%20-%20desktop.png)
+- [Tickets](/assets/images/tickets-desktop.png)
+- [Schedule](/assets/images/schedule-desktop.png)
+- [Contact](/assets/images/contact-desktop.png)
+
+Mobile Wireframes:
+
+- [Home](/assets/images/home-mobile.png)
+- [Info](/assets/images/info-mobile.png)
+- [Tickets](/assets/images/tickets-mobile.png)
+- [Schedule](/assets/images/schedule-mobile.png)
+- [Contact](/assets/images/contact-mobile.png)
 
 ## **Site Structure.**
 ---
 Our site utilised a simple, easy to navigate site-structure, as is illustrated in the below diagram. We felt this best suited the needs of the site, which weren't overly-complicated or information heavy.
 
-(ADD SITE STRUCTURE DIAGRAM HERE)
+![Site Structure Diagram](/assets/images/site-structure.png?raw=true "Site Structure Diagram")
 
 ## **Design Choices.**
 ---
@@ -39,7 +53,7 @@ We used 'Roboto' and 'Exo' fonts across our website to achieve a modern, clean a
 ### Colour Scheme.
 We chose an eclectic mixture of colours, which nontheless gave the site a vibrant, celebratory feel. While we wanted the overall experience to be clean and easily accesible, we felt it important to include ample amounts of colour across the different pages to bring the festival itself to life somewhat. We reused the same colours found within our main logo across much of the site, and would like to further expand this in later iterations if possible.
 
-(INCLUDE COLOUR PALLETTE HERE)
+- [PennFest Pallette](/assets/images/pennfest-pallette.png)
 
 ---
 # Features
@@ -52,14 +66,10 @@ We chose an eclectic mixture of colours, which nontheless gave the site a vibran
 - **Navigation Bar**: Fully responsive nav bar (minimises to a 'Burger' style drop down menu) which allows easy navigation to all pages of the site.
 - *Remains consistent throughout the site.*
 
-(INSERT SCREENSHORT OF HEADER)
-
 ### Footer:
 
 - **Social Links**: Allows users to easily navigtate to our social media accounts.
 - *Remains consistent throughout the site.*
-
-(INSERT SCREENSHOT OF FOOTER)
 
 ### Home Page:
 
@@ -107,7 +117,7 @@ We chose an eclectic mixture of colours, which nontheless gave the site a vibran
 - [Gitpod](https://www.gitpod.io/docs/languages/html)
 - [W3C-CSS-Validator](https://jigsaw.w3.org/css-validator/)
 - [W3C-HTML-Validator](https://validator.w3.org/)
-
+---
 # Testing
 ---
 
@@ -116,11 +126,11 @@ We chose an eclectic mixture of colours, which nontheless gave the site a vibran
 - Firstly, we ran our code through two validators, testing both HTML & CSS. 
 - All of our HTML pages returned no errors when run through the [W3C-HTML-Validator](https://validator.w3.org/). A partial screenshot of the output is provided below. 
 
-(ADD SCREENSHOT OF HTML PASS HERE)
+- [HTML Pass](/assets/images/HTML-pass.png)
 
 - Our CSS page also returned no errors, when run through the [W3C-CSS-Validator](https://jigsaw.w3.org/css-validator/validator).A partial screenshot of the output is provided below. 
 
-(ADD SCREENSHOT OF CSS PASS HERE)
+- [CSS Pass](/assets/images/CSS-pass.png)
 
 ## Responsiveness:
 
@@ -190,7 +200,7 @@ We used [webDev-Measure-Tool](https://web.dev/measure/) to analyse the: Performa
 
 In addition to the testing listen thus far, we have handed the website to four individuals of varying degrees of experience with the internet. Their continual feedback has been useful in iterating our site to its current state of polish.
 
-
+---
 # Deployment
 ---
 
@@ -216,7 +226,7 @@ We used 'Github Pages' to host our site.
 4. Edit the working directory to the location where you would like your newly cloned directory to be stored.
 5. Type 'git clone', paste in the URL copied from the HTTPS section and your clone will be initialised.  
 
-
+---
 # Credits
 ---
 
@@ -229,7 +239,7 @@ We used 'Github Pages' to host our site.
 - All text was written by myself.
 - [W3Schools](https://www.w3schools.com/) & the [Bootstrap Documentation](https://getbootstrap.com/docs/4.1/getting-started/introduction/) were both used extensively as reference sources throughout the making of our site. 
 
-
+---
 # Acknowledgements
 ---
 
